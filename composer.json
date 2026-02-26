@@ -1,6 +1,6 @@
 {
     "name": "list/list",
-    "licence": "MIT",
+    "license": "MIT",
     "description": "coeur",
     "require-dev": {
         "phpunit/phpunit": "^12.5"
