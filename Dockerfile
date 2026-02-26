@@ -1,5 +1,5 @@
 # Image perso de PHP pour convenir spécifiquement a nos besoins
-FROM php:8.2-apache
+FROM php:8.3-apache
 # gestion apache et PHP [obligé pour le front controller]
 # active le module de réécriture d'url via un .htacces d'apache
 # installe xdebug et active les extensions PHP nécessaires
